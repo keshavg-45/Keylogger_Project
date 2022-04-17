@@ -1,11 +1,9 @@
 #Importing Libraries
-from ssl import ALERT_DESCRIPTION_BAD_CERTIFICATE
 import sys
 import os
 import socket
 import platform
 import time
-from urllib.request import AbstractDigestAuthHandler
 import pynput
 import pyscreenshot as Imagegrab
 from requests import get
